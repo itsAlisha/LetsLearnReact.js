@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+    /* background-color: aquamarine; */
+}
+
+.Center{
+    margin:auto;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* padding: 120px 32px; */
+}
+
+button{
+    width: 30%;
+    height: 49px;
+    background-color: rgb(104, 104, 222);
+}
+
